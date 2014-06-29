@@ -1,0 +1,6 @@
+#!/bin/bash
+
+USER=mpiuser
+
+# TODO change this accordingly
+MASTER_IP=10.104.15.22
